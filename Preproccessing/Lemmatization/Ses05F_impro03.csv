@@ -13,7 +13,7 @@
 [40.1200 - 41.8700],Ses05F_impro03_F011,exc,"[4.5000, 4.5000, 4.0000]",[ ' sorry ' ]
 [45.1000 - 52.2600],Ses05F_impro03_F012,xxx,"[4.0000, 3.0000, 3.5000]","[ ' um ' , ' well ' , ' uh ' , ' not - I ' , ' know ' , ' much ' , ' plan ' , ' do ' ]"
 [55.2100 - 57.1200],Ses05F_impro03_F013,xxx,"[4.0000, 3.0000, 3.5000]","[ ' really ' , ' beautiful ' ]"
-[57.1800 - 61.1900],Ses05F_impro03_F014,xxx,"[4.0000, 3.0000, 3.5000]","[ ' yeah ' , ' go ' , ' really ' , ' great ' , ' jazz ' , ' show ' , ' um- ' ]"
+[57.1800 - 61.1900],Ses05F_impro03_F014,xxx,"[4.0000, 3.0000, 3.5000]","[ ' yeah ' , ' go ' , ' really ' , ' great ' , ' jazz ' , ' show ' , ' um ' ]"
 [62.2000 - 69.3900],Ses05F_impro03_F015,xxx,"[4.0000, 3.0000, 3.5000]","[ ' yeah ' , ' go ' , ' um ' , ' place ' , ' like ' , ' restaurant ' , ' roof ' , ' kind ' , ' thing ' ]"
 [69.5500 - 74.3100],Ses05F_impro03_F016,xxx,"[4.0000, 3.0000, 4.0000]","[ ' know ' , ' like ' , ' late ' , ' dinner ' , ' champagne ' ]"
 [74.8000 - 76.0500],Ses05F_impro03_F017,xxx,"[4.0000, 3.5000, 3.0000]",[ ' mm - hmm ' ]
@@ -23,7 +23,7 @@
 [93.1600 - 95.4700],Ses05F_impro03_F021,xxx,"[4.0000, 3.0000, 3.5000]","[ ' next ' , ' fall ' , ' guess ' ]"
 [95.6300 - 97.4800],Ses05F_impro03_F022,xxx,"[4.0000, 2.5000, 3.0000]","[ ' yeah ' , ' like ' , ' autumn ' ]"
 [98.5200 - 100.2000],Ses05F_impro03_F023,xxx,"[4.0000, 3.0000, 3.5000]","[ ' oh ' , ' town ' ]"
-[100.4400 - 103.9900],Ses05F_impro03_F024,xxx,"[3.0000, 2.5000, 3.0000]","[ ' yeah ' , ' family ' , ' live ' , ' far ' , ' away ' , ' think- ' ]"
+[100.4400 - 103.9900],Ses05F_impro03_F024,xxx,"[3.0000, 2.5000, 3.0000]","[ ' yeah ' , ' family ' , ' live ' , ' far ' , ' away ' , ' think ' ]"
 [104.8600 - 106.8700],Ses05F_impro03_F025,xxx,"[3.5000, 2.5000, 2.5000]","[ ' chicago ' , ' well ' ]"
 [106.9300 - 108.2000],Ses05F_impro03_F026,xxx,"[4.0000, 3.0000, 3.0000]",[ ' yeah ' ]
 [110.8900 - 117.4400],Ses05F_impro03_F027,hap,"[4.5000, 3.0000, 4.0000]","[ ' weird ' , ' right ' , ' like ' , ' grow ' , ' near ' , ' somebody ' , ' never ' , ' know ' , ' travel ' , ' hundred ' , ' mile ' , ' away ' ]"
@@ -47,7 +47,7 @@
 [212.5900 - 214.3700],Ses05F_impro03_F045,xxx,"[4.0000, 3.0000, 3.0000]","[ ' close ' , ' friend ' , ' far ' ]"
 [217.4800 - 220.8500],Ses05F_impro03_F046,hap,"[4.0000, 3.5000, 3.5000]","[ ' think ' , ' move ' , ' go ' , ' move ' , ' together ' ]"
 [220.8800 - 223.8100],Ses05F_impro03_F047,hap,"[4.0000, 3.0000, 3.0000]","[ ' think ' , ' good ' , ' idea ' , ' live ' , ' together ' , ' get ' , ' marry ' ]"
-[225.0800 - 227.1600],Ses05F_impro03_F048,hap,"[3.5000, 2.5000, 3.0000]","[ ' want ' , ' house ' , ' mean ' , ' just- ' ]"
+[225.0800 - 227.1600],Ses05F_impro03_F048,hap,"[3.5000, 2.5000, 3.0000]","[ ' want ' , ' house ' , ' mean ' ]"
 [227.1700 - 228.5596],Ses05F_impro03_F049,hap,"[4.0000, 2.5000, 3.0000]","[ ' l.a . ' , ' apartment ' , ' fine ' ]"
 [229.4700 - 230.5800],Ses05F_impro03_F050,xxx,"[4.0000, 2.5000, 2.5000]",[ ' yeah ' ]
 [232.9500 - 237.3100],Ses05F_impro03_F051,hap,"[4.0000, 3.0000, 4.0000]","[ ' two ' , ' artist ' , ' though ' , ' bind ' , ' poor ' , ' forever ' ]"
@@ -109,7 +109,7 @@
 [212.2400 - 213.5100],Ses05F_impro03_M048,xxx,"[4.0000, 3.5000, 3.0000]",[ ' really ' ]
 [213.9600 - 217.8900],Ses05F_impro03_M049,hap,"[4.0000, 2.5000, 3.0000]","[ ' one ' , ' first ' , ' one ' , ' make ' , ' feel ' , ' important ' ]"
 [220.2900 - 222.7500],Ses05F_impro03_M050,exc,"[3.5000, 3.5000, 3.5000]","[ ' oh ' , ' yeah ' , ' course ' ]"
-[222.9400 - 225.5300],Ses05F_impro03_M051,exc,"[3.5000, 3.0000, 3.5000]","[ ' think ' , ' go ' , ' get ' , ' house ' , ' or- ' ]"
+[222.9400 - 225.5300],Ses05F_impro03_M051,exc,"[3.5000, 3.0000, 3.5000]","[ ' think ' , ' go ' , ' get ' , ' house ' ]"
 [228.4700 - 229.8800],Ses05F_impro03_M053,xxx,"[4.0000, 3.0000, 3.0000]","[ ' oh ' , ' nice ' ]"
 [229.9300 - 233.4400],Ses05F_impro03_M054,xxx,"[3.5000, 3.0000, 3.5000]","[ ' good ' , ' apartment ' , ' breathe ' ]"
 [234.7200 - 236.5600],Ses05F_impro03_M055,xxx,"[4.0000, 2.5000, 3.5000]","[ ' yeah ' , ' go ' , ' survive ' ]"

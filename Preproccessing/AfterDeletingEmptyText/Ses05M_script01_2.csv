@@ -7,10 +7,10 @@
 [42.2600 - 44.6300],Ses05M_script01_2_F005,ang,"[2.0000, 3.3333, 3.0000]","['going', 'joe']"
 [48.2800 - 52.2300],Ses05M_script01_2_F006,xxx,"[2.0000, 3.3333, 3.3333]","['girl', 'joe', 'knows']"
 [55.2600 - 63.1900],Ses05M_script01_2_F007,xxx,"[2.0000, 3.3333, 3.6667]","['still', 'single', 'mean', 'new', 'york', 'full', 'men', 'married', 'probably', 'hundred', 'people', 'told', 'foolish', 'waited']"
-[66.3400 - 75.7300],Ses05M_script01_2_F008,xxx,"[2.0000, 2.6667, 3.6667]","['knows', 'know', 'faithful', 'rock', 'worst', 'moments', 'think', 'waiting', 'know', ""'m"", 'right']"
+[66.3400 - 75.7300],Ses05M_script01_2_F008,xxx,"[2.0000, 2.6667, 3.6667]","['knows', 'know', 'faithful', 'rock', 'worst', 'moments', 'think', 'waiting', 'know', 'right']"
 [79.1100 - 87.4600],Ses05M_script01_2_F009,xxx,"[2.3333, 3.3333, 3.6667]","['nobody', 'house', 'dares', 'takes', 'faith', 'away', 'joe', 'strangers', 'might', 'father', 'brother']"
-[88.4100 - 98.0100],Ses05M_script01_2_F010,fru,"[2.0000, 4.0000, 4.0000]","['want', 'pretend', 'like', 'coming', 'back', 'think', ""n't"", 'noticed', 'chris', 'since', 'gotten', 'want', 'nonsense']"
-[98.5100 - 105.2000],Ses05M_script01_2_F011,fru,"[1.6667, 4.0000, 4.0000]","['she-', 'coming', 'back', ""'ll"", 'kill', 'laugh', 'laugh']"
+[88.4100 - 98.0100],Ses05M_script01_2_F010,fru,"[2.0000, 4.0000, 4.0000]","['want', 'pretend', 'like', 'coming', 'back', 'think', 'noticed', 'chris', 'since', 'gotten', 'want', 'nonsense']"
+[98.5100 - 105.2000],Ses05M_script01_2_F011,fru,"[1.6667, 4.0000, 4.0000]","['coming', 'back', 'kill', 'laugh', 'laugh']"
 [105.2400 - 112.1600],Ses05M_script01_2_F012,xxx,"[1.6667, 4.3333, 4.3333]","['happen', 'night', 'came', 'back', 'goes', 'sleep', 'bed', 'memorial', 'breaks', 'pieces', 'look']"
 [114.0600 - 117.5300],Ses05M_script01_2_F013,xxx,"[2.0000, 2.6667, 3.0000]","['believe', 'joe', 'stand', 'alone']"
 [118.6100 - 123.1500],Ses05M_script01_2_F014,fru,"[3.0000, 3.3333, 3.0000]","['last', 'week', 'man', 'turned', 'detroit', 'missing', 'longer', 'larry', 'read']"
@@ -19,7 +19,7 @@
 [135.4100 - 136.9000],Ses05M_script01_2_F017,ang,"[2.0000, 3.6667, 2.6667]",['help']
 [8.1900 - 10.6800],Ses05M_script01_2_M000,neu,"[3.0000, 2.6667, 2.3333]",['bother']
 [13.8600 - 19.4000],Ses05M_script01_2_M001,neu,"[3.0000, 3.0000, 2.6667]","['well', 'maybe', 'maybe', 'wanted', 'see']"
-[21.0500 - 31.0600],Ses05M_script01_2_M002,fru,"[2.6667, 3.3333, 3.0000]","['talking', 'grew', 'next', 'girl', 'whole', 'life', 'would', 'want', 'see', 'look', 'like', ""n't"", 'told', 'anything', 'told']"
+[21.0500 - 31.0600],Ses05M_script01_2_M002,fru,"[2.6667, 3.3333, 3.0000]","['talking', 'grew', 'next', 'girl', 'whole', 'life', 'would', 'want', 'see', 'look', 'like', 'told', 'anything', 'told']"
 [33.7900 - 37.1100],Ses05M_script01_2_M003,neu,"[2.6667, 3.0000, 2.6667]","['think', 'even', 'thinking']"
 [39.0300 - 42.4100],Ses05M_script01_2_M004,fru,"[3.0000, 3.3333, 2.6667]",['well']
 [44.3100 - 47.6800],Ses05M_script01_2_M005,fru,"[2.3333, 3.0000, 2.6667]",['listen']
@@ -32,5 +32,5 @@
 [116.9800 - 119.2100],Ses05M_script01_2_M012,fru,"[3.0000, 3.3333, 3.3333]",['calm']
 [122.6900 - 124.7200],Ses05M_script01_2_M013,fru,"[3.0000, 3.3333, 3.3333]","['right', 'right']"
 [126.8900 - 130.4200],Ses05M_script01_2_M014,xxx,"[2.3333, 3.6667, 3.0000]",['mean']
-[132.8400 - 136.2200],Ses05M_script01_2_M015,ang,"[2.0000, 4.0000, 4.0000]","['suppose', 'mean', 'look', ""'re"", 'shaking']"
+[132.8400 - 136.2200],Ses05M_script01_2_M015,ang,"[2.0000, 4.0000, 4.0000]","['suppose', 'mean', 'look', 'shaking']"
 [136.6000 - 140.5800],Ses05M_script01_2_M016,ang,"[1.6667, 4.0000, 4.3333]","['got', 'hide', 'kate', 'hell', 'matter']"

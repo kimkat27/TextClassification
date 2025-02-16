@@ -8,12 +8,12 @@
 [53.5800 - 57.1300],Ses05M_script01_3_F006,neu,"[3.5000, 2.0000, 3.0000]","[ ' figure ' , ' would ' , ' mother ' , ' least ' ]"
 [59.5600 - 64.7100],Ses05M_script01_3_F007,neu,"[3.0000, 3.0000, 3.0000]","[ ' well ' , ' perspective ' , ' mean ' , ' else ' , ' would ' , ' come ' ]"
 [79.7400 - 82.1800],Ses05M_script01_3_F008,xxx,"[4.0000, 2.0000, 2.5000]","[ ' yes ' , ' come ' ]"
-[123.0700 - 126.1400],Ses05M_script01_3_F009,hap,"[4.0000, 2.5000, 3.0000]","[ ' oh ' , ' chris ' , "" ' ve "" , ' ready ' , ' long ' , ' time ' ]"
+[123.0700 - 126.1400],Ses05M_script01_3_F009,hap,"[4.0000, 2.5000, 3.0000]","[ ' oh ' , ' chris ' , ' ready ' , ' long ' , ' time ' ]"
 [131.8600 - 134.5300],Ses05M_script01_3_F010,sad,"[3.0000, 2.0000, 2.5000]","[ ' almost ' , ' get ' , ' marry ' , ' two ' , ' year ' , ' ago ' ]"
 [137.3100 - 139.5600],Ses05M_script01_3_F011,xxx,"[4.0000, 3.0000, 3.0000]","[ ' start ' , ' write ' ]"
 [141.9300 - 143.4600],Ses05M_script01_3_F012,hap,"[4.5000, 3.0000, 2.5000]","[ ' everyday ' , ' since ' ]"
 [146.7600 - 154.1600],Ses05M_script01_3_F013,exc,"[4.0000, 3.5000, 3.0000]","[ ' well ' , ' mean ' , ' never ' , ' write ' , ' say ' , ' mean ' , ' sure ' , ' ambiguous ' ]"
-[163.4600 - 171.0900],Ses05M_script01_3_F014,xxx,"[5.0000, 4.0000, 3.5000]","[ ' never ' , ' forgive ' , ' wait ' , ' long ' , ' time ' , "" ' ve "" , ' sit ' , ' around ' , ' wonder ' , ' crazy ' , ' think ' ]"
+[163.4600 - 171.0900],Ses05M_script01_3_F014,xxx,"[5.0000, 4.0000, 3.5000]","[ ' never ' , ' forgive ' , ' wait ' , ' long ' , ' time ' , ' sit ' , ' around ' , ' wonder ' , ' crazy ' , ' think ' ]"
 [174.5800 - 177.1800],Ses05M_script01_3_F015,exc,"[3.0000, 3.0000, 3.5000]",[ ' like ' ]
 [178.8000 - 186.3304],Ses05M_script01_3_F016,sad,"[2.5000, 3.0000, 3.5000]","[ ' like ' , ' larry ' , ' brother ' , ' like ' , ' chris ' , ' matter ' ]"
 [190.8800 - 193.2400],Ses05M_script01_3_F017,xxx,"[2.5000, 3.5000, 3.5000]","[ ' chris ' , ' mother ' ]"
@@ -29,7 +29,7 @@
 [434.8300 - 437.7200],Ses05M_script01_3_F027,hap,"[4.5000, 3.5000, 3.0000]","[ ' laughter ' , ' fortune ' ]"
 [6.2181 - 10.4500],Ses05M_script01_3_M000,xxx,"[4.0000, 3.5000, 2.5000]","[ ' know ' , ' go ' , ' style ' ]"
 [17.2600 - 20.2500],Ses05M_script01_3_M001,exc,"[3.5000, 3.5000, 3.0000]","[ ' sorry ' , ' come ' ]"
-[30.1200 - 31.4900],Ses05M_script01_3_M003,neu,"[3.0000, 3.5000, 2.5000]",[ ' well- ' ]
+[30.1200 - 31.4900],Ses05M_script01_3_M003,neu,"[3.0000, 3.5000, 2.5000]",[ ' well ' ]
 [43.9700 - 53.4600],Ses05M_script01_3_M005,xxx,"[3.5000, 3.5000, 2.5000]","[ ' well ' , ' plan ' , ' kind ' , ' sneak ' , ' period ' , ' week ' , ' take ' , ' grant ' , ' set ' ]"
 [57.7800 - 59.7400],Ses05M_script01_3_M006,xxx,"[3.0000, 2.0000, 3.0000]",[ ' know ' ]
 [66.9800 - 78.5900],Ses05M_script01_3_M007,xxx,"[3.5000, 3.5000, 2.0000]","[ ' well ' , ' would ' , ' want ' , ' mean ' , ' guess ' , ' know ' , ' ask ' , ' come ' ]"
@@ -55,7 +55,7 @@
 [263.4100 - 278.5700],Ses05M_script01_3_M029,sad,"[2.0000, 3.5000, 3.5000]","[ ' know ' , ' little ' , ' thing ' , ' kind ' , ' guy ' , ' die ' , ' kill ' ]"
 [278.6600 - 291.3600],Ses05M_script01_3_M030,sad,"[2.0000, 4.0000, 4.0000]","[ ' mean ' , ' exactly ' , ' anymore ' , ' selfish ' , ' little ' , ' bit ' , ' selfish ' , ' would ' , ' today ' , ' give ' , ' idea ' , ' watch ' , ' go ' ]"
 [291.6400 - 308.2300],Ses05M_script01_3_M031,xxx,"[2.5000, 4.0000, 4.5000]","[ ' everything ' , ' destroy ' , ' see ' , ' feel ' , ' like ' , ' something ' , ' new ' , ' create ' , ' time ' , ' like ' , ' kind ' , ' responsibility ' , ' know ' , ' man ' , ' man ' , ' understand ' , ' say ' ]"
-[308.7600 - 320.8700],Ses05M_script01_3_M032,xxx,"[4.0000, 4.5000, 4.5000]","[ ' see ' , ' bring ' , ' back ' , ' earth ' , ' like- ' , ' like ' , ' monument ' , ' would ' , ' stand ' , ' behind ' , ' man ' , ' would ' , ' make ' , ' difference ' ]"
+[308.7600 - 320.8700],Ses05M_script01_3_M032,xxx,"[4.0000, 4.5000, 4.5000]","[ ' see ' , ' bring ' , ' back ' , ' earth ' , ' like ' , ' like ' , ' monument ' , ' would ' , ' stand ' , ' behind ' , ' man ' , ' would ' , ' make ' , ' difference ' ]"
 [320.9400 - 336.4500],Ses05M_script01_3_M033,sad,"[2.5000, 3.5000, 4.0000]","[ ' go ' , ' home ' , ' incredible ' , ' mean ' ]"
 [336.5200 - 345.2700],Ses05M_script01_3_M034,xxx,"[2.0000, 3.5000, 4.0000]","[ ' mean ' , ' whole ' , ' thing ' , ' like ' , ' kind ' , ' bus ' , ' accident ' ]"
 [346.3400 - 350.3400],Ses05M_script01_3_M035,xxx,"[2.5000, 3.5000, 3.5000]","[ ' go ' , ' back ' , ' work ' , ' dad ' , ' whole ' , ' rat ' , ' race ' ]"

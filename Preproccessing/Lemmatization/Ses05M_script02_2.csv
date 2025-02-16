@@ -10,13 +10,13 @@
 [82.3800 - 84.8600],Ses05M_script02_2_F009,ang,"[2.3333, 3.3333, 3.0000]","[ ' twice ' , ' every ' , ' time ' , ' try ' , ' ever ' ]"
 [85.5100 - 102.0000],Ses05M_script02_2_F010,ang,"[1.6667, 4.0000, 4.0000]","[ ' like ' , ' wait ' , ' santa ' , ' clause ' , ' something ' , ' feel ' , ' like ' , ' though ' , ' whole ' , ' life ' , ' go ' , ' stand ' , ' beach ' , ' wait ' , ' eye ' , ' open ' , ' expectantly ' , ' hand ' , ' clasp ' , ' neatly ' , ' front ' , ' wait ' , ' fish ' , ' show ' , ' fish ' , ' show ' ]"
 [104.9000 - 107.0600],Ses05M_script02_2_F011,fru,"[2.3333, 3.0000, 3.0000]","[ ' understand ' , ' anything ' , ' say ' ]"
-[110.1400 - 118.0900],Ses05M_script02_2_F012,sad,"[2.0000, 2.6667, 2.3333]","[ ' want ' , ' see ' , ' always ' , ' want ' , ' see ' , ' just- ' , ' keep ' , ' think ' , ' time ' , ' never ' ]"
+[110.1400 - 118.0900],Ses05M_script02_2_F012,sad,"[2.0000, 2.6667, 2.3333]","[ ' want ' , ' see ' , ' always ' , ' want ' , ' see ' , ' keep ' , ' think ' , ' time ' , ' never ' ]"
 [150.4300 - 182.3400],Ses05M_script02_2_F013,sad,"[2.3333, 2.3333, 2.6667]","[ ' remember ' , ' first ' , ' time ' , ' come ' , ' see ' , ' grunion ' , ' four ' , ' year ' , ' ago ' , ' right ' , ' get ' , ' marry ' , ' thought ' , ' pregnant ' , ' bottle ' , ' champagne ' , ' glass ' , ' ask ' , ' dance ' , ' take ' , ' shoe ' , ' dance ' , ' say ' , ' intimate ' , ' thing ' , ' right ' , ' ear ' , ' could ' , ' feel ' , ' much ' , ' hear ' ]"
 [183.2400 - 193.3300],Ses05M_script02_2_F014,sad,"[2.0000, 2.3333, 2.3333]","[ ' remember ' , ' think ' , ' finally ' , ' happy ' , ' suppose ' ]"
 [201.2900 - 207.0300],Ses05M_script02_2_F015,sad,"[2.0000, 1.6667, 1.6667]","[ ' dance ' , ' barefoot ' , ' sand ' , ' drink ' , ' champagne ' , ' bottle ' ]"
 [216.6100 - 222.9000],Ses05M_script02_2_F016,sad,"[2.0000, 2.0000, 2.0000]","[ ' would ' , ' rather ' , ' remember ' , ' thing ' , ' rather ' , ' hope ' , ' something ' ]"
 [239.5200 - 241.3100],Ses05M_script02_2_F020,xxx,"[3.6667, 2.6667, 2.3333]",[ ' laughter ' ]
-[253.0700 - 257.3700],Ses05M_script02_2_F023,sad,"[1.6667, 2.6667, 2.3333]","[ ' want- ' , ' want ' , ' thing ' , ' turn ' , ' way ' , ' suppose ' ]"
+[253.0700 - 257.3700],Ses05M_script02_2_F023,sad,"[1.6667, 2.6667, 2.3333]","[ ' want ' , ' want ' , ' thing ' , ' turn ' , ' way ' , ' suppose ' ]"
 [302.3700 - 306.3200],Ses05M_script02_2_F024,xxx,"[2.0000, 3.0000, 2.6667]","[ ' even ' , ' anything ' ]"
 [306.9900 - 312.1983],Ses05M_script02_2_F025,xxx,"[2.0000, 3.0000, 3.3333]","[ ' sure ' , ' stand ' , ' beach ' , ' wait ' , ' fight ' ]"
 [313.8300 - 318.2969],Ses05M_script02_2_F026,sad,"[2.0000, 2.3333, 2.0000]",[ ' want ' ]
@@ -44,8 +44,8 @@
 [101.7300 - 105.6300],Ses05M_script02_2_M011,fru,"[1.6667, 3.3333, 3.3333]","[ ' okey ' , ' fish ' , ' nothing ' , ' get ' , ' traumatize ' ]"
 [106.5200 - 109.0000],Ses05M_script02_2_M012,fru,"[2.0000, 3.6667, 3.0000]",[ ' course ' ]
 [121.2400 - 130.2900],Ses05M_script02_2_M013,fru,"[2.6667, 3.0000, 2.3333]","[ ' try ' , ' work ' , ' backwards ' , ' seem ' , ' pinpoint ' , ' time ' , ' everything ' , ' go ' , ' wrong ' , ' okay ' ]"
-[130.3158 - 152.0600],Ses05M_script02_2_M014,fru,"[3.0000, 3.3333, 2.3333]","[ ' fine ' , ' phone ' , ' call ' , ' marge ' , ' eat ' , ' dinner ' , ' fine ' , ' talking- ' , ' uh ' , ' washing ' , ' dish ' , ' problem ' , ' right ' , ' take ' , ' shower ' , ' watch ' , ' tv ' , ' news ' , ' say ' , ' grunion ' , ' run ' , ' tonight ' , ' say ' , ' great ' , ' let ' , ' go ' , ' feel ' , ' lucky ' , ' right ' , ' put ' , ' coat ' , ' put ' , ' animal ' , ' pull ' , ' car ' , ' garage ' ]"
-[194.6400 - 198.9500],Ses05M_script02_2_M015,xxx,"[4.0000, 3.0000, 2.3333]","[ ' wait ' , ' minute ' , "" ' ve "" , ' get ' ]"
+[130.3158 - 152.0600],Ses05M_script02_2_M014,fru,"[3.0000, 3.3333, 2.3333]","[ ' fine ' , ' phone ' , ' call ' , ' marge ' , ' eat ' , ' dinner ' , ' fine ' , ' talk ' , ' uh ' , ' washing ' , ' dish ' , ' problem ' , ' right ' , ' take ' , ' shower ' , ' watch ' , ' tv ' , ' news ' , ' say ' , ' grunion ' , ' run ' , ' tonight ' , ' say ' , ' great ' , ' let ' , ' go ' , ' feel ' , ' lucky ' , ' right ' , ' put ' , ' coat ' , ' put ' , ' animal ' , ' pull ' , ' car ' , ' garage ' ]"
+[194.6400 - 198.9500],Ses05M_script02_2_M015,xxx,"[4.0000, 3.0000, 2.3333]","[ ' wait ' , ' minute ' , ' get ' ]"
 [206.4500 - 217.6200],Ses05M_script02_2_M016,neu,"[3.3333, 4.0000, 3.0000]","[ ' car ' , ' right ' , ' pass ' , ' knickerbocker ' , ' liquor ' , ' locker ' , ' say ' , ' let ' , ' stop ' , ' get ' , ' champagne ' , ' say ' , ' times ' , ' waste ' , ' something ' , ' like ' , ' right ' , ' want ' , ' like ' , ' right ' ]"
 [222.5000 - 230.0600],Ses05M_script02_2_M017,xxx,"[3.3333, 3.6667, 2.6667]","[ ' okay ' , ' right ' , ' problem ' , ' totally ' , ' understand ' , ' okey ' , ' um ' , ' listen ' , ' want ' , ' dance ' ]"
 [231.5100 - 233.8500],Ses05M_script02_2_M018,xxx,"[3.3333, 3.0000, 2.3333]","[ ' want ' , ' go ' , ' get ' , ' champagne ' ]"
